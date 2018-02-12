@@ -8,11 +8,6 @@
 * Open a pull request to this repository
 * Submit on canvas a question and observation, how long you spent, and a link to your pull request
 
-## Resources
-* [jest getting started](https://facebook.github.io/jest/docs/en/getting-started.html)
-* [jest globals](https://facebook.github.io/jest/docs/en/api.html#content)
-* [jest expect](https://facebook.github.io/jest/docs/en/expect.html#content)
-
 ## Configuration
 Configure the root of your repository with the following files and directories. Thoughtfully name and organize any additional configuration or module files.
 

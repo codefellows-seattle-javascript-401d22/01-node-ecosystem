@@ -26,8 +26,8 @@ Configure the root of your repository with the following files and directories. 
   * This should happen when invoked with `'world'` as the first argument
 
 ### Arithmetic Module Tests
-* Test each method for proper use (invoded with number arguments)
-* Test each method for inproper use (invoded with one or more non-numner arguments)
+* Test each method for proper use (invoked with number arguments)
+* Test each method for improper use (invoked with one or more non-number arguments)
 
 ## Feature Tasks
 

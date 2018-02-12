@@ -10,8 +10,9 @@ describe('Greet Module', function() {
       assert.ok(result === 'Hello world', 'not equal to Hello world');
     });
     it('should return null if input is not a string', function() {
-      var errResult = greet(2);
-      assert.throws(errResult === null, 'error not thrown');
+      assert.throws(function() {
+        greet(2);
+      }, 'error not thrown');
     });
   });
 });

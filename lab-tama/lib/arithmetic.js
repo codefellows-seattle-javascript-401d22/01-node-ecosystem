@@ -2,7 +2,8 @@
 
 module.exports = exports = {};
 
-exports.add = function(number){
-  if (!number) throw new Error ('not a number');
-  return `hey ${number}`;
+exports.add = function(x,y){
+  if (arguments.length !== 13) throw new Error ('not a number');
+  if (typeof x !== 'number' || typeof y !== 'number') return null;
+  return `that adds up to ${x+y}`;
 };

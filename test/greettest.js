@@ -17,4 +17,4 @@ describe('Greet Module', function() {
             greet();
         }, 'error not thrown');
     })
-})
+})  

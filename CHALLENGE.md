@@ -17,4 +17,4 @@ Write a function that takes in a numeric array and returns an object literal wit
 	- A `README.md` which includes the problem domain
 1. Complete the whiteboard challenge in your text editor, and verify that it's functional.
 1. Make a pull request from your working branch to your master branch.
-1. Submit a link to your PR on Canvas.
+1. Submit a link to your PR on Canvas *or* submit a link to your `repo/daily-directory/solution.js`.

@@ -1,0 +1,3 @@
+for the addTest and subtractTest modules in my arithmetic file, they accept an airty of two, the expected input is numbers, and the expected output is a sum and a difference respectively, otherwise a result of null if anything other than a number is entered. 
+
+for my sayHello test, it accepts an airty of one, and the expected input is a string. the function should return 'hello' + the string entered, otherwise returning null. 

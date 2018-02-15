@@ -8,7 +8,7 @@ describe('Greet Module', function() {
     var result = greet(1);
     assert.ok(result === null, 'not equal to null');
   });
-  it.only('it should return hello world', function() {
+  it ('it should return hello world', function() {
     var result = greet('world');
     console.log('result', result);
     assert.ok(result === 'hello world', 'not equal to hello world');
